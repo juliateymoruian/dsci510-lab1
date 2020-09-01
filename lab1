@@ -1,3 +1,1 @@
-def classwelcome():
-    print("Welcome to DSCI510!")
-classwelcome()
+print("Welcome to DSCI510!")
